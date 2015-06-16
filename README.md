@@ -1,14 +1,5 @@
-# ghcn
+# GHCN Trend Analysis
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
-
-## License
-
-Copyright © 2015 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+This project contains a Clojure program for doing trend analysis with GHCN data.
+I wrote it to do the analysis work for the 
+[GHCN Trend Map](http://github.com:embeepea/ghcn-trend-map).
