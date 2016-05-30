@@ -1,7 +1,9 @@
-# GHCN Trend Analysis
+# US Temperature Trend Analysis
 
 This project contains the Clojure code I wrote when doing the data
-analysis for the
+analysis with data from
+[NOAA's Global Historical Climatology Network](https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/global-historical-climatology-network-ghcn)
+for the
 [US Temperature Trend Map](http://github.com/embeepea/us-temperature-trend-map).
 
 I did this as a learning exercise in using Clojure for data analysis,
